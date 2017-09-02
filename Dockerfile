@@ -1,3 +1,3 @@
 FROM tiangolo/uwsgi-nginx-flask:python3.6
-COPY ./src/* /app/
+COPY ./src/ /app/
 
