@@ -1,4 +1,4 @@
-# A demo of deploy flask app to docker
+# A demo of deploying flask app to docker
 
 ### Test
 
