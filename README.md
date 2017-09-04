@@ -2,7 +2,7 @@
 
 ### Test
 
-- Run `python src/main.py 5000`
+- Run `FLASK_APP=src/main/web/web.py FLASK_DEBUG=1 flask run --port=5000`
 - Visit http://127.0.0.1:5000
 
 ### Deploy
